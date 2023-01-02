@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/by2ddvEchm)
 
-- 👨‍💻 All of my projects are available at [https://github.com/FMGAMING3022?tab=repositories](https://github.com/FMGAMING3022?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/FMGAMING3022?tab=repositories)
 
 - ⚡ Fun fact **There are around 300+ separate <br> programming languages and I only know few :)**
 
