@@ -1,4 +1,4 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)](https://discord.gg/by2ddvEchm)
+[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)](https://discord.gg/NbpHD9RaSJ)
 <h1 align="center">Hi 👋, I'm FM</h1>
 <h3 align="center">A FiveM Server Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"?
