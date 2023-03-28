@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/FMGAMING3022?tab=repositories)
 
-- ⚡ Fun fact **There are around 300+ separate <br> programming languages and I only know few :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
