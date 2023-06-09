@@ -1,4 +1,4 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)](https://discord.gg/JwWANh8EY5)
+[![MasterHead](https://media.discordapp.net/attachments/1091065495475724368/1116598109586329661/teaserImage_xxxx_croppedTeaserImage.png?width=960&height=397)](https://discord.gg/VJSf6rpXtP)
 <h1 align="center">Hi 👋, I'm FM</h1>
 <h3 align="center">A FiveM Server Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"?
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [PARADISE RP](https://discord.gg/uUzGe3aaAm)
 
-- 👯 I’m looking to collaborate on [Discord FMFW](https://discord.gg/JwWANh8EY5)
+- 👯 I’m looking to collaborate on [Discord FMFW](https://discord.gg/VJSf6rpXtP)
 
-- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/JwWANh8EY5)
+- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/VJSf6rpXtP)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/FMGAMING3022?tab=repositories)
 
