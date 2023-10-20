@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmgaming3022&label=Profile%20views&color=0e75b6&style=flat" alt="fmgaming3022" /> </p>
 
-- 🔭 I’m currently working on [PARADISE RP](https://discord.gg/uUzGe3aaAm)
+- 🔭 I’m currently working on [PARADISE RP](https://discord.gg/yRMs5k4JRW)
 
-- 👯 I’m looking to collaborate on [Discord FMFW](https://discord.gg/VJSf6rpXtP)
+- 👯 I’m looking to collaborate on [Discord](https://discord.gg/EW5E8qcG9F)
 
-- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/VJSf6rpXtP)
+- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/EW5E8qcG9F)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/FMGAMING3022?tab=repositories)
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100070006380268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC7oXw9JF5U0Aed8-lP7xZUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahfuz.19" height="30" width="40" /></a>
-<a href="https://discord.gg/NbpHD9RaSJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="668123951582674995" height="30" width="40" /></a>
+<a href="https://discord.gg/EW5E8qcG9F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="668123951582674995" height="30" width="40" /></a>
 </p>
 
 
