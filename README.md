@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmgaming3022&label=Profile%20views&color=0e75b6&style=flat" alt="fmgaming3022" /> </p>
 
-- 🔭 I’m currently working on [PARADISE RP](https://discord.gg/yRMs5k4JRW)
+- 🔭 I’m currently working on Multiple Server
 
-- 👯 I’m looking to collaborate on [Discord](https://discord.gg/EW5E8qcG9F)
+- 👯 I’m looking to collaborate on [Discord](https://discord.gg/QtCYMjVm9U)
 
-- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/EW5E8qcG9F)
+- 🤝 I’m looking for help with [FiveM Server Developing](https://discord.gg/QtCYMjVm9U)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/FMGAMING3022?tab=repositories)
 
