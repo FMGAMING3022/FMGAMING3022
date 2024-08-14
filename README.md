@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.facebook.com/fmplayssa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC7oXw9JF5U0Aed8-lP7xZUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahfuz.19" height="30" width="40" /></a>
-<a href="https://discord.gg/EW5E8qcG9F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="668123951582674995" height="30" width="40" /></a>
+<a href="https://discord.gg/y7G5NF6zYJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="668123951582674995" height="30" width="40" /></a>
 </p>
 
 
